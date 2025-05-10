@@ -41,7 +41,7 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 <h2 align="center" style="color:#00FF00; font-size:50px; font-weight: bold;">💀 CÓDIGO PULIDO EN LA CALLE</h2>
 
 <p align="center" style="color:#00FF00; font-size:30px;">
-  **Aquí no hay reglas, solo líneas de código que cuentan historias.**
+  Aquí no hay reglas, solo líneas de código que cuentan historias.
 </p>
 
 ---
