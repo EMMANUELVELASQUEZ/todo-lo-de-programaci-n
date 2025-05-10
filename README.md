@@ -17,6 +17,12 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=%F0%9F%94%AA+5+A%C3%91OS+DOMANDO+EL+C%C3%93DIGO;FULL+STACK+SIN+MIEDO+AL+BUG;ESTE+REPO+NO+ES+CURRICULUM...+ES+LEGADO" />
 </p>
 
+<!-- Encabezado brutal y animado -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=900&lines=%F0%9F%94%A5+5+A%C3%91OS+DE+PURO+C%C3%93DIGO+SIN+FILTROS;FULLSTACK+HECHO+EN+LA+CALLE+Y+LA+PR%C3%81CTICA;NO+ES+UN+REPO...+ES+UNA+DECLARACI%C3%93N+DE+GUERRA" />
+</p>
+
 
 ## 🧠 ¿Qué hay aquí?
 
