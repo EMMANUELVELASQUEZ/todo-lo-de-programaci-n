@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <h1>
+    <body background bgcolor="blue">
+    <font size="center" face="brodway" color="white">
+    <script>
+        var x = 0; //Primer numero a leer
+        var y = 0; //Segundo numero a leer
+        var intmenor = 0;
+        var mayor = 0;
+        var array = [];
+        var array2 = [];
+        var i =0
+        x = parseInt(prompt('De que numero quieres los multiplos?'));
+        y = parseInt(prompt('Hasta que numero quieres los multiplos?'));
+
+        if( x > y){
+            array.push(y);
+            array.push(x);
+            console.log(array);
+            menor=y;
+            mayor=x;
+        }
+        else{
+            array.push(x);
+            array.push(y);
+            console.log(array);
+            menor=x;
+            mayor=y;  
+        }
+        i= menor
+        while(i <= mayor){
+            array2.push(i)
+            i++
+        }
+        console.log(array2)
+        document.write("imprimiendo los numeros de menor a mayor <br> " + array + "<br>")
+        document.write("imprimiendo todos los numeros entre " + menor + " y " + mayor + "<br>" + array2)
+
+    </script>
+</h1>
+</body>
+</html>

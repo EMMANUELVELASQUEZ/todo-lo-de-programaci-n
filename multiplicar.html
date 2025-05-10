@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+   <body background bgcolor="PINK">
+<head>
+  <style type="text/css">
+    body {
+      margin: 30px;
+    }
+  </style>
+</head>
+  
+<body>
+<h1>Multiplicar dos numeros </h1>
+  <form>
+   <H2> 1st Numero : <input type="text" 
+    id="firstNumber" /><br>
+   <H2> 2nd Numero: <input type="text" 
+    id="secondNumber" /><br>
+    <input type="button" onClick="multiplyBy()" 
+    Value="multiplicacion" /><br>
+  </form>
+  
+  <p> EL RESULTADO ES : <br>
+   <H1><span id = "result"></span></H1>
+  </p>
+  
+  
+  <script>
+    function multiplyBy()
+    {
+      num1 = document.getElementById(
+        "firstNumber").value;
+      num2 = document.getElementById(
+        "secondNumber").value;
+      document.getElementById(
+        "result").innerHTML = num1 * num2;
+    }
+  </script>
+</body>
+  
+</html>
+<meta charset="utf-8">
+  <title>Trazo de texto</title>
+  <style type="text/css">
+    h1
+    {
+      color: lighcyan;
+      -webkit-text-stroke: 2px yellow; /* prefijo de proveedor */
+      font-size: 500%; /* aumenta el tamaño de la fuente */
+    }
+  </style>
+</head>
+<body>
+
+<!-- Fig. 5.1: sombradetexto.html -->
+<!-- Sombra de texto en CSS3. -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>multiplicacion</title>
+  <style type="text/css">
+    h1
+    {
+      text-shadow: -11px 11px 11px red; /* agrega sombra */
+      font-size: 500%; /* aumenta el tamaño de la fuente */
+    }

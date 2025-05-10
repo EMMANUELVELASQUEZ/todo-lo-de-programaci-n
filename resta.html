@@ -1,0 +1,54 @@
+<!DOCTYPE html>  
+ <html>  
+ <body>  
+  <body background bgcolor="PINK">
+ <h1>Restar dos numeros</h1>  
+ <p><H1>Por favor, introduce dos numeros:</H1></p>  
+ <input id="num1"><br>  
+ <input id="num2">  
+ <button type="button" onclick="myFunction()">Resta</button>  
+ <p id="restando"></p>  
+ <script>  
+ function myFunction() {  
+   var x,y,resta,text;  
+   x = document.getElementById("num1").value;  
+   y = document.getElementById("num2").value;  
+   if (isNaN(x) || isNaN(y)) {  
+     text = "Es necesarios introducir dos números válidos";  
+   } else {  
+     //si no ponemos parseFloat concatenaría x con y  
+     resta=parseFloat(x)-parseFloat(y);  
+     text= resta;  
+   }  
+   document.getElementById("restando").innerHTML = text;  
+ }  
+ </script>  
+ </body>  
+ </html>  
+ <meta charset="utf-8">
+  <title>Trazo de texto</title>
+  <style type="text/css">
+    h1
+    {
+      color: lighcyan;
+      -webkit-text-stroke: 2px BLUE; /* prefijo de proveedor */
+      font-size: 500%; /* aumenta el tamaño de la fuente */
+    }
+  </style>
+</head>
+<body>
+
+<!-- Fig. 5.1: sombradetexto.html -->
+<!-- Sombra de texto en CSS3. -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>moma</title>
+  <style type="text/css">
+    h1
+    {
+      text-shadow: -10px 10px 10px red; /* agrega sombra */
+      font-size: 500%; /* aumenta el tamaño de la fuente */
+    }
+ 
+ 
