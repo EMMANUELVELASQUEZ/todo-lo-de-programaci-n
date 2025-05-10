@@ -1,0 +1,2 @@
+def miniña() :
+   print("hola")
