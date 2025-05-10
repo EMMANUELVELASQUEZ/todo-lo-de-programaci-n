@@ -31,67 +31,48 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+NO+ES+UN+PORTAFOLIO...+ES+UNA+ZONA+DE+GUERRA;😤+AQU%C3%8D+SE+FORMA+EL+C%C3%93DIGO+A+PUTAZOS;🔥+5+A%C3%91OS+DE+CAOS,+ERRORES,+Y+GLORIA;☕+NO+DORMIR+ES+NORMAL,+RENUNCIAR+NO;🐺+BIENVENIDO+A+MI+SELVA+DE+C%C3%93DIGO" />
 </p>
 
----
-
-## 📦 ¿QUÉ HAY AQUÍ?
-
-- 🧠 Notas reales (no copiadas de YouTube, escritas con sangre y bugs)  
-- 💻 Proyectos que vivieron, murieron… y revivieron  
-- 🔩 Funciones que me salvaron el pellejo  
-- 🤕 Códigos que duelen, pero enseñan más que cualquier tutorial  
-
-
-
-
-
-
-<!-- 🔥 TÍTULO HACKER EN MOVIMIENTO 🔥 -->
+<!-- 🎇 CABECERA IMPACTANTE EN VERDE HACKER 🎇 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=600&color=00FF41&center=true&vCenter=true&width=1000&lines=🧠+5+A%C3%91OS+DE+PURO+C%C3%93DIGO+Y+CAOS;🔥+ESTE+REPO+NO+ES+BONITO,+ES+REAL;💀+AQU%C3%8D+SE+PROGRAM%C3%93+CON+HAMBRE,+CAF%C3%89+Y+BUGS;🐍+CODIGO+VIVO,+LEYES+ROTAS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=600&color=00FF00&center=true&vCenter=true&width=1000&lines=%F0%9F%A7%A0+5+A%C3%91OS+DE+PROGRAMACI%C3%93N+REAL+Y+SIN+FILTRAR;🔥+ESTO+NO+ES+UN+PORTAFOLIO,+ES+UN+MANUAL+DE+GUERRA;☠️+CODIGO+EN+LA+SANGRE,+ALCOHOL+Y+CAFE;💥+AQUI+SE+ROMPE+TODO,+SE+LEARN+TODO,+SE+MUERE+TODO" />
 </p>
 
 ---
 
-<h2 align="center" style="color:#00FF41; font-size:40px;">💻 ESTE REPO ES GUERRA PURA</h2>
+<h2 align="center" style="color:#00FF00; font-size:50px; font-weight: bold;">💀 CÓDIGO PULIDO EN LA CALLE</h2>
+
+<p align="center" style="color:#00FF00; font-size:30px;">
+  **Aquí no hay reglas, solo líneas de código que cuentan historias.**
+</p>
 
 ---
 
-## 🧨 ¿QUÉ ES ESTO?
+## 🚨 ¿QUÉ HAY EN ESTE REPO?
 
-> Este **no** es un portafolio bonito.  
-> Este **no** es un CV para reclutadores.  
-> Este es el resultado de:
+> Este **NO** es un portafolio bonito ni un CV, esto es **LA GUERRA** de un programador.  
+>  
+> Aquí **solo** encontrarás:
 
-- 🕶️ 5 años de guerra contra bugs  
-- ☕ Noches sin dormir y litros de café  
-- 💥 1000 errores que enseñan más que la escuela  
-- 🧠 Código real escrito con hambre y furia  
-
----
-
-## 💼 ¿QUÉ VAS A ENCONTRAR?
-
-- ⚙️ Funciones salvavidas  
-- 💥 Proyectos que tronaron... pero enseñaron  
-- 🧠 Notas sin filtro, directo del campo de batalla  
-- 🔥 Experimentos, aprendizajes, y uno que otro milagro
+- ⚡ **5 años de código hardcore**  
+- ☕ **Café, noches sin dormir, y miles de bugs arreglados a sangre fría**  
+- 🔥 **Proyectos que nacieron, crecieron, explotaron y luego resucitaron**  
+- 🤖 **Funcionalidades hackeadas y aprendidas en el campo de batalla**  
 
 ---
 
-<h2 align="center" style="color:#00FF41; font-size:32px;">⚔️ STACK DE GUERRA</h2>
+<h2 align="center" style="color:#00FF00; font-size:45px; font-weight: bold;">🔥 STACK DEL GUERRERO</h2>
 
 ```txt
-🧠 Lenguajes:
+💬 Lenguajes:
    - JavaScript, Python, Java, C++, TypeScript, PHP
 
-🚀 Frontend:
+🧱 Frontend:
    - React, Vue, Tailwind, Bootstrap, HTML5, CSS3, Figma
 
-💾 Backend:
+🔥 Backend:
    - Node.js, Express, Flask, Laravel
 
-🗄️ Bases de datos:
+🗃️ Bases de Datos:
    - MongoDB, PostgreSQL, MySQL, SQLite, Firebase
 
-🛠️ Herramientas:
+⚙️ Herramientas:
    - Git, GitHub, Docker, Postman, Insomnia, VSCode
