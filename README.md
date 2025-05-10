@@ -44,6 +44,17 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 🧰 Herramientas:
    Git | GitHub | VS Code | Postman | Docker | Firebase
 
+while (true) {
+  aprende();
+  falla();
+  levántate();
+  sigue();
+}
+
+
+
+
+
 
 
 
