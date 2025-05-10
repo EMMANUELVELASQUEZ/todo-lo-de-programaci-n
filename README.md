@@ -50,8 +50,7 @@ while (true) {
   levántate();
   sigue();
 }
-
-
+<p align="center"><strong>Gracias por darte la vuelta. ¡Aquí se pica código de verdad!</strong> 🚀</p>
 
 
 
