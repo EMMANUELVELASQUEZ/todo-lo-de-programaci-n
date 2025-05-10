@@ -24,37 +24,48 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 </p>
 
 
-## 🧠 ¿Qué hay aquí?
-
-> 5 años de aprendizaje puro, errores necesarios y progresos reales.  
-> Lo que ves aquí es el reflejo de mi esfuerzo, mi pasión por programar y mi hambre de aprender.
-
-### Aquí vas a encontrar:
-- 🧩 **Proyectos reales**, desde lo básico hasta lo que ya me enorgullece
-- ⚙️ **Automatizaciones, scripts, pruebas, ideas raras** (pero útiles)
-- 📚 **Notas que me salvan cada semana**
-- 🔁 **Errores que me enseñaron más que muchos tutoriales**
-- 🧪 **Cacharreos con tecnologías nuevas, solo por amor al código**
 
 ---
 
-## 🧰 Stack de herramientas
+## 🧨 ¿QUÉ ES ESTO?
+
+Este **no es un portafolio bonito**.  
+Este **no es un curriculum para reclutadores**.  
+Este es el resultado de:
+
+- 5 años de noches sin dormir ☕  
+- 1000 errores que me enseñaron más que cualquier profe 🤬  
+- 1 sola misión: **convertirme en un perro del código** 🐺  
+
+---
+
+## 📦 AQUÍ ENCUENTRAS
+
+- 🧠 Notas reales (de las que no están en YouTube)
+- 💻 Proyectos que sí salieron… y los que explotaron también
+- 🔩 Funciones que me salvaron el cuello
+- 🤕 Códigos que me dolieron escribir… pero valieron la pena
+
+---
+
+## 🛠️ STACK DEL GUERRERO
 
 ```txt
-👨‍💻 Lenguajes:
-   JavaScript | Python | Java | PHP | C++ | SQL
+💬 Lenguajes:
+   - JavaScript, Python, Java, C++, TypeScript, PHP
 
-🎨 Frontend:
-   HTML | CSS | Tailwind | Bootstrap | React
+🧱 Frontend:
+   - React, Vue, Tailwind, Bootstrap, HTML5, CSS3, Figma
 
-⚙️ Backend:
-   Node.js | Laravel | Flask | Express
+🔥 Backend:
+   - Node.js, Express, Flask, Laravel
 
-🧠 Bases de Datos:
-   MySQL | MongoDB | PostgreSQL | SQLite
+🗃️ Bases de Datos:
+   - MongoDB, PostgreSQL, MySQL, SQLite, Firebase
 
-🧰 Herramientas:
-   Git | GitHub | VS Code | Postman | Docker | Firebase
+🛠️ Extras:
+   - Git, GitHub, Docker, Postman, VSCode, Insomnia
+
 
 
 
