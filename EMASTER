@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>emaster</title>
+<link rel="stylesheet" href="CSS.css">
+</head>
+<body>
+<div id="game-container">
+    <div class="row">
+        <div class="cell" onclick="handleClick(0, 0)"></div>
+        <div class="cell" onclick="handleClick(0, 1)"></div>
+        <div class="cell" onclick="handleClick(0, 2)"></div>
+    </div>
+    <div class="row">
+        <div class="cell" onclick="handleClick(1, 0)"></div>
+        <div class="cell" onclick="handleClick(1, 1)"></div>
+        <div class="cell" onclick="handleClick(1, 2)"></div>
+    </div>
+    <div class="row">
+        <div class="cell" onclick="handleClick(2, 0)"></div>
+        <div class="cell" onclick="handleClick(2, 1)"></div>
+        <div class="cell" onclick="handleClick(2, 2)"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

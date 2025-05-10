@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de Nombres</title>
+</head>
+<body>
+    <h1>Lista de Nombres</h1>
+    <p>Introduce un nombre y agrégalo a la lista:</p>
+    <input type="text" id="name" placeholder="Nombre">
+    <button onclick="addName()">Agregar Nombre</button>
+
+    <h2>Lista de Nombres</h2>
+    <ul id="nameList"></ul>
+
+    <script>
+        // Función para agregar un nombre a la lista en el almacenamiento local
+        function addName() {
+            const name = document.getElementById("name").value;
+
+            if (name) {
+                // Obtener la lista actual de nombres desde el almacenamiento local
+                let names = JSON.parse(localStorage.getItem("names")) || [];
+
+                // Agregar el nuevo nombre
+                names.push(name);
+
+                // Guardar la lista actualizada en el almacenamiento local
+                localStorage.setItem("names", JSON.stringify(names));
+
+                // Actualizar la lista de nombres en la página
+                displayNames(names);
+            }
+        }
+
+        // Función para mostrar la lista de nombres en la página
+        function displayNames(names) {
+            const nameList = document.getElementById("nameList");
+            nameList.innerHTML = "";
+
+            names.forEach((name, index) => {
+                const listItem = document.createElement("li");
+                listItem.textContent = name;
+                nameList.appendChild(listItem);
+            });
+        }
+
+        // Al cargar la página, mostrar la lista de nombres almacenados
+        window.onload = () => {
+            const names = JSON.parse(localStorage.getItem("names")) || [];
+            displayNames(names);
+        }
+    </script>
+</body>
+</html>
