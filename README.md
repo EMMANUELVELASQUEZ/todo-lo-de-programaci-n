@@ -6,6 +6,12 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO" />
 </p>
 
+<!-- Animación en el encabezado -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+Este+repositorio+contiene+5+a%C3%B1os+de+aprendizaje+en+programaci%C3%B3n;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
+</p>
+
+<!-- Arte ASCII personalizado -->
 
 
 <p align="center"><strong>Este no es solo un repositorio... es mi historia escrita en código.</strong></p>
@@ -45,13 +51,7 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
    Git | GitHub | VS Code | Postman | Docker | Firebase
 
 
---------------------------------------------
-<!-- Animación en el encabezado -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+Este+repositorio+contiene+5+a%C3%B1os+de+aprendizaje+en+programaci%C3%B3n;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
-</p>
 
-<!-- Arte ASCII personalizado -->
 
 
 
