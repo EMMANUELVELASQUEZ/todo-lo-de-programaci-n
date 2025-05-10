@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pacman</title>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: black;
+    }
+    #game-container {
+        width: 600px;
+        height: 400px;
+        margin: auto;
+        position: relative;
+    }
+    .pacman {
+        width: 20px;
+        height: 20px;
+        background-color: yellow;
+        border-radius: 50%;
+        position: absolute;
+    }
+</style>
+</head>
+<body>
+<div id="game-container">
+    <div id="pacman" class="pacman"></div>
+</div>
+
+<script>
+    document.addEventListener("keydown", movePacman);
+
+    let pacman = document.getElementById("pacman");
+    let pacmanLeft = 0;
+    let pacmanTop = 0;
+
+    function movePacman(event) {
+        const speed = 20;
+        switch (event.key) {
+            case "ArrowLeft":
+                pacmanLeft -= speed;
+                pacman.style.left = pacmanLeft + "px";
+                break;
+            case "ArrowRight":
+                pacmanLeft += speed;
+                pacman.style.left = pacmanLeft + "px";
+                break;
+            case "ArrowUp":
+                pacmanTop -= speed;
+                pacman.style.top = pacmanTop + "px";
+                break;
+            case "ArrowDown":
+                pacmanTop += speed;
+                pacman.style.top = pacmanTop + "px";
+                break;
+        }
+    }
+</script>
+</body>
+</html>

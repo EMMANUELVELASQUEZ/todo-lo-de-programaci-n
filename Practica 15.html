@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Eventos onload</title>
+	<meta charset="UTF-8">
+
+	<script type="text/javascript">
+
+	function inicializar() {
+      var i=document.getElementById('i1');
+      i.ondblclick = function () {i.src='https://pbs.twimg.com/media/CR8BTrPU8AAnLI_.jpg'};
+
+	i.onclick = function(){ i.src='https://www.nicepng.com/png/detail/101-1019622_sad-smiley-face.png'};	
+	}
+	</script>
+</head>
+
+<!--El arbol DOM ya esta construido al ocurrir onload-->
+<body onload="inicializar()">
+
+	<h4>Evento onload</h4>
+
+	<img name="img" src="https://www.nicepng.com/png/detail/101-1019622_sad-smiley-face.png" id="i1"/>
+</body>
+</html>

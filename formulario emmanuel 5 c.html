@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<HTML>
+ <HEAD>
+ <META CHARSET="UTF-8">
+ <TITLE> Ejemplo de un FORMULARIO</TITLE>
+ </HEAD>
+ <BODY>
+ <H1>Prueba de formulario</H1>
+ <FORM METHOD=GET>
+ Nombre: <INPUT TYPE=TEXT NAME=NOMBRE SIZE=10><BR> 
+ Apellidos: <INPUT TYPE=TEXT NAME=APELLIDOS SIZE=30><BR>
+ Clave: <INPUT TYPE=PASSWORD NAME=PASS SIZE=8><BR>
+ <HR>
+ Sexo: 
+ <BR>
+ <INPUT TYPE=RADIO NAME=“SEXO”>Hombre
+ <INPUT TYPE=RADIO NAME=“SEXO”>Mujer
+ <BR>
+ Aficiones:
+ <BR>
+ <INPUT TYPE=CHECKBOX NAME=“DEPORTES”>Deportes
+ <INPUT TYPE=CHECKBOX NAME=“MUSICA”>Música
+ <INPUT TYPE=CHECKBOX NAME=“LECTURA”>Lectura
+ <BR>
+ Procedencia:
+ <BR>
+ <SELECT NAME=“PROCEDENCIA”>
+ <option> África 
+ <option> Antártida 
+ <option> América 
+ <option> Asia 
+ <option> Europa 
+ <option> Oceanía
+ </SELECT>
+ <HR>
+ Dónde le gustaría viajar:
+ <BR>
+ <SELECT NAME=“destino” MULTIPLE SIZE=4>
+ <option> África 
+ <option> Antártida 
+ <option> América 
+ <option> Asia 
+ <option> Europa
+ <option> Oceanía
+ </SELECT>
+ <BR>
+ Opine:
+ <BR>
+ <TEXTAREA COLS=25 ROWS=10 NAME=“OPINA”> ¡Escriba aquí su opinión!
+ </TEXTAREA>
+ <HR>
+ <INPUT TYPE=SUBMIT> <INPUT TYPE=RESET>
+ </FORM>
+ </BODY>
+</HTML>

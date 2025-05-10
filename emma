@@ -1,0 +1,16 @@
+function decimalToBinary(decimal){
+	return (decimal >>> 0).toString(2);
+}
+//Ejemplo de uso:
+const numeroDecimal = 15;
+const numeroBinario =
+decimalToBinary(numeroDecimal);
+console.log(´El numero decimal ${numeroDecimal} en binario es: ${numeroBinario}´);
+
+function decimalToBinary(decimal) {
+  return (decimal >>> 0).toString(2);
+}
+// Ejemplo de uso:
+const numeroDecimal = 15;
+const numeroBinario = decimalToBinary(numeroDecimal);
+console.log(`El número decimal ${numeroDecimal} en binario es: ${numeroBinario}`);

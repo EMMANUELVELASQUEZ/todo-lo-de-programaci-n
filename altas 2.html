@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>Insertar base de datos</title>
+</head>
+<body>
+<?php
+$conexion=mysql_conencet("localhost""root","12345")or die ("problemas de la conexion"):
+
+mysql_select_db("uno",$conexion)or die("Problemas en la seleccion de la base de datos"):
+
+mysql_(insert into alumnos(nombre,direccion,telefono)values
+(´$_REQUEST[nombre]´,´$[direccion]´,´$_REQUEST[telefono]´)",
+$conexion) or die ("Problemas en el select".mysql_error());
+
+mysql_close($conexion);
+
+echo"El alumno fue dado de alta.";
+?>
+</body>
+</html>

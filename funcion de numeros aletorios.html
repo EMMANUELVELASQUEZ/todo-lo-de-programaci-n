@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<!-- fig.9.4: EntAleatorio.html -->
+<!-- Enteros aletorios, desplazar y escalar. -->
+<html>
+   <head>
+   	<meta charset="utf-8">
+   	<title>Desplazar y escalar enteros aletorios</title>
+   	<style type="text/css">
+   		p, ol { margin: 0; }
+   		li    { display: inline; margin-right: 10px; }	
+   	</style>
+   	<script>
+
+   		var valor;
+
+   		document.writeln( "<p>N&uacute;meros aletorios</p><ol>" );
+
+   		for ( var i = 1; i <= 30; ++i)
+   		{
+   			valor = Match.floor(1 + Match.random() * 6)
+   			document.writeln( "<li>" + valor + "</li>");
+   		} // fin del for 
+
+   		document.writeln( "</ol>" );
+
+   	</script>
+   </head><body></body>
+</html>
