@@ -24,10 +24,7 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+NO+ES+UN+PORTAFOLIO...+ES+UNA+ZONA+DE+GUERRA;😤+AQU%C3%8D+SE+FORMA+EL+C%C3%93DIGO+A+PUTAZOS;🔥+5+A%C3%91OS+DE+CAOS,+ERRORES,+Y+GLORIA;☕+NO+DORMIR+ES+NORMAL,+RENUNCIAR+NO;🐺+BIENVENIDO+A+MI+SELVA+DE+C%C3%93DIGO" />
 </p>
 
-<!-- 🎇 CABECERA IMPACTANTE EN VERDE HACKER 🎇 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=600&color=00FF00&center=true&vCenter=true&width=1000&lines=%F0%9F%A7%A0+5+A%C3%91OS+DE+PROGRAMACI%C3%93N+REAL+Y+SIN+FILTRAR;🔥+ESTO+NO+ES+UN+PORTAFOLIO,+ES+UN+MANUAL+DE+GUERRA;☠️+CODIGO+EN+LA+SANGRE,+ALCOHOL+Y+CAFE;💥+AQUI+SE+ROMPE+TODO,+SE+LEARN+TODO,+SE+MUERE+TODO" />
-</p>
+
 
 ---
 
