@@ -1,4 +1,10 @@
-# todo-lo-de-programaci-n
+#<!-- Animación en el encabezado -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+Este+repositorio+contiene+5+a%C3%B1os+de+aprendizaje+en+programaci%C3%B3n;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
+</p>
+
+<!-- Arte ASCII personalizado -->
+
 Este espacio no es solo una carpeta más con líneas de código; es el resultado de 5 años de aprendizaje constante, desveladas frente al monitor, proyectos rotos y reparados, ideas locas que se volvieron reales.
 
 <!-- Encabezado con estilo -->
