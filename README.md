@@ -12,15 +12,6 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=%F0%9F%94%AA+5+A%C3%91OS+DOMANDO+EL+C%C3%93DIGO;FULL+STACK+SIN+MIEDO+AL+BUG;ESTE+REPO+NO+ES+CURRICULUM...+ES+LEGADO" />
-</p>
-
-![Texto alternativo del GIF](https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fesp.phoneky.com%2Fgif-animations%2F%3Fid%3Ds2s78341&psig=AOvVaw2thyvrE2cx3FlFDgYCPEEM&ust=1746926611312000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjNivTel40DFQAAAAAdAAAAABAT)
-
-
-
-
 <!-- Encabezado brutal y animado -->
 
 <p align="center">
