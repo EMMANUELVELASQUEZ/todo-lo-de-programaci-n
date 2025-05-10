@@ -26,6 +26,38 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=1000&lines=🚀+ESTO+NO+ES+UN+PORTAFOLIO+BONITO;😤+NO+ES+UN+CV+PA'+RECLUTADORES;🔥+ESTO+ES+EL+RESULTADO+DE+5+A%C3%91OS+DE+GUERRA;☕+NOCHES+SIN+DORMIR,+1000+ERRORES,+Y+NINGUNA+RENUNCIA;🐺+MI+MISIÓN:+CONVERTIRME+EN+UN+PERRO+DEL+C%C3%93DIGO" />
+</p>
+
+---
+
+## 📦 AQUÍ ENCUENTRAS
+
+- 🧠 Notas reales (de las que no están en YouTube)  
+- 💻 Proyectos que sí salieron… y los que explotaron también  
+- 🔩 Funciones que me salvaron el cuello  
+- 🤕 Códigos que me dolieron escribir… pero valieron la pena  
+
+---
+
+## 🛠️ STACK DEL GUERRERO
+
+```txt
+💬 Lenguajes:
+   - JavaScript, Python, Java, C++, TypeScript, PHP
+
+🧱 Frontend:
+   - React, Vue, Tailwind, Bootstrap, HTML5, CSS3, Figma
+
+🔥 Backend:
+   - Node.js, Express, Flask, Laravel
+
+🗃️ Bases de Datos:
+   - MongoDB, PostgreSQL, MySQL, SQLite, Firebase
+
+🛠️ Extras:
+   - Git, GitHub, Docker, Postman, VSCode, Insomnia
 
 ## 🧨 ¿QUÉ ES ESTO?
 
