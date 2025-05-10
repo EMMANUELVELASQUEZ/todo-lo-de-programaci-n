@@ -53,7 +53,7 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 > Aquí **solo** encontrarás:
 
 - ⚡ **5 años de código hardcore**  
-- ☕ **Café, noches sin dormir, y miles de bugs arreglados a sangre fría**  
+- ☕ **noches sin dormir, y miles de bugs arreglados a sangre fría**  
 - 🔥 **Proyectos que nacieron, crecieron, explotaron y luego resucitaron**  
 - 🤖 **Funcionalidades hackeadas y aprendidas en el campo de batalla**  
 
